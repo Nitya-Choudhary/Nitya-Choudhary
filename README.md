@@ -38,7 +38,6 @@ About Me 🌟<br>🎓 Second-year BTech IT student @ IGDTUW (GPA: 8.6) and ML in
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nitya-Choudhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitya-Choudhary&theme=tokyonight)
 
 
 ## 💻 Top Languages
