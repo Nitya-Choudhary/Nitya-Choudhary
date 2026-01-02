@@ -40,8 +40,6 @@ About Me 🌟<br>🎓 Second-year BTech IT student @ IGDTUW (GPA: 8.6) and ML in
 
 
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya_Choudhary29&layout=compact&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nitya-Choudhary&icon=0&color=0)](https://visitcount.itsvg.in)
