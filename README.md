@@ -38,6 +38,18 @@ About Me 🌟<br>🎓 Second-year BTech IT student @ IGDTUW (GPA: 8.6) and ML in
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nitya-Choudhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitya_Choudhary29&show_icons=true&theme=tokyonight)
+
+## 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nitya_Choudhary29&theme=tokyonight)
+
+## 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nitya_Choudhary29&theme=react-dark)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya_Choudhary29&layout=compact&theme=tokyonight)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Nitya-Choudhary&icon=0&color=0)](https://visitcount.itsvg.in)
 
