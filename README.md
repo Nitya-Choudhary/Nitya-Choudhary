@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-About Me 🌟<br>🎓 Second-year BTech IT student @ IGDTUW (GPA: 8.6) and ML intern @ DRDO<br>🤖 AI/ML & NLP enthusiast | Data whisperer | Code alchemist<br>🏆 Hackathon lover | Research awardee | Team leader<br><br>🔥 Currently Obsessing Over<br>🤖 AI/ML Frontiers:<br>Fine-tuning LLMs (Llama, BERT) for niche domains like spiritual texts & nutrition.<br>Edge-case hunting in computer vision (OpenCV + TensorFlow).<br><br>📊 Data Alchemy:<br>Building fault-tolerant trading models (Python + Alpaca API).<br>Scraping, wrangling, and visualizing chaotic real-world datasets.<br><br>☁️ Cloud & DevOps:<br>Serverless AI pipelines on AWS (Lambda, Sagemaker).<br>CI/CD for ML models → because "it works locally" isn’t enough.<br><br>🛠️ Tool Tinkering:<br>Jupyter Notebook → VS Code → Git → "Why did this work now?"<br>Linux shell scripting (for that hacker-movie vibe)<br><br>💡 I believe in:<br>"Code, fail, debug, repeat" 🔄<br>Open-source karma 🌍💛<br>Coffee-fueled midnight debug sessions ☕🐛<br><br>⚡ Fun fact: I can recite Python syntax faster than the alphabet. 🐍<br><br>📫 Let’s geek out! DM me about:<br>Hackathons 🚀<br>Research collabs 🔬<br>Why The Matrix is a documentary 
+👋 Hi, I’m Nitya Choudhary
+
+🎓 B.Tech IT student at **IGDTUW, Delhi**  
+🐍 Python developer | Machine Learning & NLP focused  
+🌱 Open-source contributor | Interested in building reliable ML-powered systems  
+
+I work at the intersection of **software engineering and machine learning** — writing clean Python code, experimenting with models, and improving existing systems through open-source contributions.
+
 
 
 ## 🌐 Socials:
@@ -29,14 +36,11 @@ About Me 🌟<br>🎓 Second-year BTech IT student @ IGDTUW (GPA: 8.6) and ML in
 ![](https://nirzak-streak-stats.vercel.app/?user=Nitya-Choudhary&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Choudhary&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nitya-Choudhary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nitya-Choudhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
