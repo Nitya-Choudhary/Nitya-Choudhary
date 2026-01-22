@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-👋 Hi, I’m Nitya Choudhary
+#  About Me:
+ Hi, I’m Nitya Choudhary
 
 🎓 B.Tech IT student at **IGDTUW, Delhi**  
 🐍 AI/ML Intern @ DRDO, Delhi | Python developer | Machine Learning & NLP focused | Aspiring SDE |  
