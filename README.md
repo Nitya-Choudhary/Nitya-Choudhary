@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 👋 Hi, I’m Nitya Choudhary
 
 🎓 B.Tech IT student at **IGDTUW, Delhi**  
-🐍 Python developer | Machine Learning & NLP focused  
-🌱 Open-source contributor | Interested in building reliable ML-powered systems  
+🐍 Python developer | Machine Learning & NLP focused | Aspiring SDE |  
+🌱 Open-source contributor | Interested in building reliable ML-powered systems | Building ML projects with emphasis on **data pipelines, model evaluation, and reproducibility**
 
 I work at the intersection of **software engineering and machine learning** — writing clean Python code, experimenting with models, and improving existing systems through open-source contributions.
 
