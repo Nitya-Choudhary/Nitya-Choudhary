@@ -1,24 +1,23 @@
 # Nitya Choudhary
 
-**B.Tech IT @ IGDTUW, Delhi** · Python · ML/NLP · Aspiring SDE
+> B.Tech Information Technology · IGDTUW, Delhi
 
-I work at the intersection of **software engineering and machine learning** — building reliable ML-powered systems with clean Python code, strong data pipelines, and reproducible model evaluation.
+ML Engineer & Aspiring SDE building reliable, production-ready systems at the intersection of **software engineering** and **machine learning** — clean Python, robust data pipelines, and reproducible model evaluation.
 
-📍 Former AI/ML Intern @ DRDO · Former Research Intern @ ACM · Open-source contributor
+`DRDO AI/ML Intern` &nbsp;|&nbsp; `ACM Research Intern` &nbsp;|&nbsp; `Open Source Contributor`
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-**Languages:** Python · C++ · Java · JavaScript · R · LaTeX
-
-**ML/AI:** TensorFlow · PyTorch · Keras · scikit-learn · OpenCV · HuggingFace · NumPy · Pandas · Matplotlib
-
-**Web:** React · Next.js · Node.js · FastAPI · Flask · Express · TailwindCSS
-
-**Databases:** MySQL · PostgreSQL · MongoDB
-
-**Cloud & Tools:** AWS · GCP · Azure · Firebase · Git · GitHub · Figma · Docker
+| Domain | Technologies |
+|---|---|
+| **Languages** | Python · C++ · Java · JavaScript · R |
+| **ML / AI** | PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · NumPy · Pandas |
+| **Web** | React · Next.js · FastAPI · Flask · Node.js · TailwindCSS |
+| **Databases** | PostgreSQL · MySQL · MongoDB |
+| **Cloud & DevOps** | AWS · GCP · Azure · Firebase · Docker · Git |
+| **Design** | Figma · Canva |
 
 ---
 
