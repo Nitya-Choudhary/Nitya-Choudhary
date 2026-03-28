@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitya%20Choudhary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Aspiring%20SDE%20%7C%20IGDTUW%20Delhi&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nitya%20Choudhary&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Aspiring%20SDE%20%7C%20Delhi&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nitya+Choudhary;ML+Engineer+%7C+Aspiring+SDE;DRDO+%7C+ACM+Research+Intern" alt="Typing SVG" />
 
