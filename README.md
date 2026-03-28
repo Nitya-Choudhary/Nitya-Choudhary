@@ -23,7 +23,9 @@ I work at the intersection of **software engineering and machine learning** — 
 ---
 
 ## GitHub Stats
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Nitya-Choudhary&theme=radical&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitya-Choudhary&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitya-Choudhary&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitya-Choudhary&theme=radical)
 
 ---
 
