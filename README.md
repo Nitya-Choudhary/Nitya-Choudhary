@@ -23,12 +23,7 @@ I work at the intersection of **software engineering and machine learning** — 
 ---
 
 ## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Nitya-Choudhary&theme=radical&hide_border=true&show_icons=true&count_private=true&cache_seconds=86400)
-
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Nitya-Choudhary&theme=radical&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitya-Choudhary&theme=radical&hide_border=true&layout=compact&cache_seconds=86400)
 
 ---
 
