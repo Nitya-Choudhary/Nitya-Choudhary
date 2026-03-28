@@ -23,10 +23,12 @@ I work at the intersection of **software engineering and machine learning** — 
 ---
 
 ## GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitya-Choudhary&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitya-Choudhary&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitya-Choudhary&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nitya-Choudhary&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nitya-Choudhary&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nitya-Choudhary&theme=radical)
 ---
 
 ## Connect
