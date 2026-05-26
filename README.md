@@ -20,6 +20,53 @@ ML Engineer & Aspiring SDE building reliable, production-ready systems at the in
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Maritime Vessel Classification — DRDO</h3>
+      <p>Deep learning pipeline for classifying ships from satellite/aerial imagery using EfficientNet-B0/B3, ResNet-50 & DenseNet-121 ensemble. Features open-set unknown vessel detection, Grad-CAM explainability, and confidence calibration. Trained on 22,248 multi-modal images (RGB + Grayscale + Contrast-enhanced).</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Computer%20Vision-FF6EC7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/DRDO-Research-A78BFA?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Nitya-Choudhary/Classification-of-Maritime-vessels-from-satellite-imagery">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 Tri-EON — Multi-Task Earth Observation</h3>
+      <p>Unified SegFormer-based multi-task framework performing classification, semantic segmentation, and change detection on satellite imagery in a single forward pass. Fine-tuned on EuroSAT with cross-domain transfer from ADE20K. Supports FP16 mixed-precision training on T4/A100 GPUs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Transformers-SegFormer-FF6EC7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Remote%20Sensing-A78BFA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Multi--Task%20Learning-34D399?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Nitya-Choudhary/Tri-Modal-Earth-Observation-Network-Tri-EON-">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ FastVec-CUDA</h3>
+      <p>Python library bridging high-level Python with CUDA C++ for GPU-accelerated vector math. Achieved <strong>3,100x speedup</strong> over pure Python (~0.8ms vs ~2.5s on 10M-element vectors) using custom NVCC kernels, Pybind11 bindings, and Tensor Cores on an NVIDIA RTX GPU.</p>
+      <p>
+        <img src="https://img.shields.io/badge/CUDA-C++-00599C?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img src="https://img.shields.io/badge/Pybind11-FF6EC7?style=flat-square"/>
+        <img src="https://img.shields.io/badge/HPC-3100x%20Speedup-34D399?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Nitya-Choudhary/FastVec-CUDA">View Repo →</a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Reserve for future project -->
+    </td>
+  </tr>
+</table>
+
+---
+
 ##  Tech Stack
 
 | Domain | Technologies |
@@ -67,3 +114,4 @@ ML Engineer & Aspiring SDE building reliable, production-ready systems at the in
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
+
