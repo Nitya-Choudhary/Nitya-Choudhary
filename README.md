@@ -61,16 +61,7 @@ ML Engineer & Aspiring SDE building reliable, production-ready systems at the in
     </td>
     <td width="50%" valign="top">
       <td width="50%" valign="top">
-      <h3>🔥 CUDA-Based Deep Learning Framework (Mini PyTorch)</h3>
-  <p>Built a lightweight deep learning framework from scratch using CUDA C++ and Python, implementing tensor operations, automatic differentiation, neural network layers, optimizers, and GPU-accelerated training. Designed to mimic core PyTorch functionality while leveraging custom CUDA kernels for high-performance computation on NVIDIA GPUs.</p>
-      <p>
-    <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-    <img src="https://img.shields.io/badge/Deep%20Learning-Framework-FF6EC7?style=flat-square"/>
-  </p>
-  <a href="https://github.com/Nitya-Choudhary/CUDA-Based-Deep-Learning-Framework-Mini-PyTorch-">View Repo →</a>
-</td>
+      
       <!-- Reserve for future project -->
     </td>
   </tr>
