@@ -70,9 +70,6 @@ ML Engineer & Aspiring SDE building reliable, production-ready systems at the in
   </p>
   <a href="https://github.com/Nitya-Choudhary/CUDA-Based-Deep-Learning-Framework-Mini-PyTorch-">View Repo →</a>
 </td>
-      
-      <!-- Reserve for future project -->
-    </td>
   </tr>
 </table>
 
